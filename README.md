@@ -1,0 +1,8 @@
+# KotlinminiProject![Screenshot_20220917-134227_KotlinminiProject](https://user-images.githubusercontent.com/58545112/190854987-718e3bc9-bbfe-4316-b8a4-aeb90959997d.jpg)
+![Screenshot_20220917-170524_KotlinminiProject](https://user-images.githubusercontent.com/58545112/190855012-4578fbdf-2017-46e4-8702-7a4a8cda5ae6.jpg)
+![Screenshot_20220917-170652_KotlinminiProject](https://user-images.githubusercontent.com/58545112/190855039-500dd034-50a2-4624-a7cc-d5b963f29bfc.jpg)
+![Screenshot_20220917-170658_KotlinminiProject](https://user-images.githubusercontent.com/58545112/190855053-96719acf-77f8-4e44-a59a-816a7bbc8c0b.jpg)
+![Screenshot_20220917-170703_KotlinminiProject](https://user-images.githubusercontent.com/58545112/190855101-4a744687-75ff-4a15-aa34-c1125bbad5ce.jpg)
+![Screenshot_20220917-170732_KotlinminiProject](https://user-images.githubusercontent.com/58545112/190855111-549de2be-a65a-42a3-b5e5-2e78caa095b7.jpg)
+![Screenshot_20220917-170720_KotlinminiProject](https://user-images.githubusercontent.com/58545112/190855114-13560cc3-873b-46fa-b65d-92e8f8bd2faf.jpg)
+![Screenshot_20220917-171137_KotlinminiProject](https://user-images.githubusercontent.com/58545112/190855115-5cf5a412-29a0-4c04-9563-836d5bd11434.jpg)
